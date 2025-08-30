@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Read Aloud Helper",
   "version": "1.0",
-  "description": "Adds a button next to the text on the website fallenlondon.com to read it aloud.",
+  "description": "Adds a button next to text to read it aloud.",
   "permissions": [],
   "content_scripts": [
     {
